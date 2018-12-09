@@ -5,7 +5,8 @@ In here you'll find the code behind some drawings that I've found on the interne
 These codes run on Python 3.7.
 
 # Built With
-* Turtle - library used to draw in python.
+* Turtle - library used to draw in python.   
+https://docs.python.org/3.3/library/turtle.html?highlight=turtle#how-to-configure-screen-and-turtles
 
 # Acknowledgements:
 * Sequare Fractal Pattern: "How to draw sequare fractal Pattern with Parabolic lines | Geometric Tutorial". 
