@@ -1,8 +1,8 @@
 # Drawings
-In here you will find the code behind some pictures I've found on the internet. I will be adding to this repository throughout the years, enjoy!
+In here you'll find the code behind some drawings that I've found on the internet and have replicated with python. I will be adding to this repository throughout the years, enjoy!
 
 # Getting Started
-In order to execute this code you will need python 3.7.
+These codes run on Python 3.7.
 
 # Built With
 * Turtle - library used to draw in python.
