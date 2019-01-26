@@ -1,9 +1,6 @@
 # Drawings
 In here you'll find the code behind some drawings that I've found on the internet and have replicated with python. I will be adding to this repository throughout the years, enjoy!
 
-### Getting Started
-These codes run on Python 3.7.
-
 ### Built With
 * Turtle - library used to draw in python.   
 https://docs.python.org/3.3/library/turtle.html?highlight=turtle#how-to-configure-screen-and-turtles
@@ -14,3 +11,8 @@ https://docs.python.org/3.3/library/turtle.html?highlight=turtle#how-to-configur
 
 * Zentangle Pursuit Curve: "Line Illusion, Doodling Pattern,Pursuit Curve, Zentangle".
 							Kid's Cultures, Dec 6 2016 https://www.youtube.com/watch?v=zVkDeUISe3I
+
+## What I learned
+
+- How to draw with the turtle library
+- How to incorporate user input into functions
